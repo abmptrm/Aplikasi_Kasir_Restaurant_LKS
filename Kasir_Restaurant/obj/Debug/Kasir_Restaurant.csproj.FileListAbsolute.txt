@@ -1,0 +1,16 @@
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\bin\Debug\Kasir_Restaurant.exe.config
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\bin\Debug\Kasir_Restaurant.exe
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\bin\Debug\Kasir_Restaurant.pdb
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.csproj.AssemblyReference.cache
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.FrmLogin.resources
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.Properties.Resources.resources
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.csproj.GenerateResource.cache
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.exe
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.pdb
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.FrmMainMenu.resources
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.FrmEntriMenu.resources
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.FrmEntriPelanggan.resources
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.FrmEntriPesanMakanan.resources
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.FrmTransaksi.resources
+C:\Users\SMKN4BDL\Documents\Kasir_Restaurant\Kasir_Restaurant\obj\Debug\Kasir_Restaurant.FrmReport.resources
